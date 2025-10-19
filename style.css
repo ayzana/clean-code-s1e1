@@ -130,7 +130,7 @@
 
 /* Completed */
 .list#completed-tasks .task-label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
